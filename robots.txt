@@ -1,0 +1,9 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: https://your-content-marketing-strategy.blogspot.com/sitemap.xml
+
